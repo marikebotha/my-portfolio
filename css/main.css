@@ -39,7 +39,7 @@ p{
 /*---header----*/
 
 .col-width-1{
-	width: 600px;
+	width: 690px;
 }
 
 .col-width-2{
@@ -48,7 +48,7 @@ p{
 }
 
 header h2{
-	padding-left: 87px;
+	padding-left: 155px;
 	padding-top: 20px;
 }
 
@@ -71,8 +71,8 @@ nav{
 nav ul{
 	list-style-type: none;
 	line-height: 2;
-	padding-left: 140px;
-	padding-top: 30px;
+	padding-left: 70px;
+	padding-top: 20px;
 }
 
 nav ul li a{
@@ -81,7 +81,8 @@ nav ul li a{
 }
 
 #box-text{
-	padding-left: 87px;
+	box-sizing: border-box;
+	padding-left: 155px;
 }
 
 
@@ -89,10 +90,10 @@ nav ul li a{
 
 #me{
 	box-sizing: border-box;
-	width: 900px;
+	width: 930px;
 	height: 410px;
 	background: #d1b299;
-	margin-left: 300px;
+	margin-left: 270px;
 	overflow: auto;
 	clear: both;
 }
@@ -140,14 +141,15 @@ portfolio p{
 	float: left;
 	overflow: auto;
 	padding-left: 20px;
-	width: 800px;
+	width: 600px;
 	font-size: 18px;
 	letter-spacing: 0.8px;
 }
 
 .portfolio-item{
-	width:1100px;
-	margin-bottom: 110px;
+	width:1050px;
+	margin-bottom: 7px;
+	overflow: auto;
 }
 
 /*---contact----*/
