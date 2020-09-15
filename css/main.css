@@ -117,11 +117,11 @@ nav ul li a{
 
 /*---portfolio----*/
 
-portfolio h2{
+#portfolio h2{
 	padding-top: 70px;
 }
 
-portfolio .full-width{
+#portfolio .full-width{
 	box-sizing: border-box;
 	padding-left: 150px;
 	padding-bottom: 100px;
@@ -137,7 +137,7 @@ h3{
 	padding-right: 5px;
 }
 
-portfolio p{
+#portfolio p{
 	float: left;
 	overflow: auto;
 	padding-left: 20px;
@@ -162,13 +162,13 @@ portfolio p{
 	margin-left: 160px;
 }
 
-contact h2{
+#contact h2{
 	float: left;
 	padding-left: 100px;
 	padding-top: 30px;
 }
 
-contact ul{
+#contact ul{
 	float: left;
 	list-style-type: none;
 	font-family: 'Abhaya Libre', serif;
