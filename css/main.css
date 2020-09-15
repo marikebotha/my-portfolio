@@ -137,6 +137,19 @@ h3{
 	padding-right: 5px;
 }
 
+#portfolio a{
+	font-family: 'Glacial Indifference', sans-serif;
+	font-size: 21px;
+	letter-spacing: 9px;
+	float: left;
+	overflow: auto;
+	padding-top: 36px;
+	padding-right: 5px;
+	color: #222222;
+	text-decoration: none;
+	font-weight: bold;
+}
+
 #portfolio p{
 	float: left;
 	overflow: auto;
